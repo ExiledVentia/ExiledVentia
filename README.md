@@ -1,4 +1,3 @@
-## Hey.
 <h1>Salutations.</h1>
 <a>Hey, I'm Ozma. I'm pretty average at everything I do. Wouldn't call myself a specialist or anything.</a>
 
