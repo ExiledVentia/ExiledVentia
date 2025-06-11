@@ -1,20 +1,23 @@
-<h1>Salutations.</h1>
-<a>Hey, I'm Ozma. I'm pretty average at everything I do. Wouldn't call myself a specialist or anything.</a>
+# Salutations, I'm Ozma. I'm pretty average at everything I do. I wouldn't call myself a specialist or anything.
+
+Languages I work with:
 
 
+<p align="left">
+  <a href="https://laravel.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+</p>
 
+> there will be more promise.
+---
 
-<!--
-**ExiledVentia/ExiledVentia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm the #1 [Kei Karuizawa](https://you-zitsu.fandom.com/wiki/Kei_Karuizawa) fan in Indonesia.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://kei.moe/assets/images/gallery/LN_Y2_v45/LN_2nd_Vol_4.5-02.jpg" width="720">
