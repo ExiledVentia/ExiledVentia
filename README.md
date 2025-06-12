@@ -1,4 +1,4 @@
-# Salutations,
+# Salutations!
  I'm Ozma. I'm pretty average at everything I do. I wouldn't call myself a specialist or anything. <br>
 
 Languages I work with:
