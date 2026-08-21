@@ -1,7 +1,7 @@
 # Salutations!
 I'm Ozma. I'm pretty average at everything I do. I wouldn't call myself a specialist or anything.
 
-![Ozma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExiledVentia&show_icons=true&theme=chartreuse-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ExiledVentia&include_all_commits=true&disable_animations=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=ExiledVentia&include_all_commits=true&disable_animations=true&theme=chartreuse-dark)
 
 ### Languages & Tools
 
